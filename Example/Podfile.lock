@@ -1,0 +1,16 @@
+PODS:
+  - DailymotionPlayerSDK (4.0.7)
+
+DEPENDENCIES:
+  - DailymotionPlayerSDK (from `../`)
+
+EXTERNAL SOURCES:
+  DailymotionPlayerSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DailymotionPlayerSDK: 435ff25c2097f0eb9fc6bb516e84ca5419504b25
+
+PODFILE CHECKSUM: 460c730fcdce9c8f80db5f7cf7feda6e81497947
+
+COCOAPODS: 1.12.0
